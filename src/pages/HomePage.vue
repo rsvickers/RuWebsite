@@ -1,5 +1,11 @@
 <template>
-  <div></div>
+  <div class="container-fluid">
+    <section class="row">
+      <div class="col-12">
+        hi
+      </div>
+    </section>
+  </div>
 </template>
 
 <script>
