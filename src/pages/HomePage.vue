@@ -2,7 +2,7 @@
   <div class="container-fluid">
     <section class="row">
       <div class="col-12">
-        hi
+        Ru is still sick so that sucks for me.
       </div>
     </section>
   </div>
