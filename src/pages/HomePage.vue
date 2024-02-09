@@ -2,7 +2,7 @@
   <div class="container-fluid">
     <section class="row">
       <div class="col-12">
-        Ru is still sick so that sucks for me.
+        Ru is still sick so that sucks for me. While I am waiting I may start writing.
       </div>
     </section>
   </div>
