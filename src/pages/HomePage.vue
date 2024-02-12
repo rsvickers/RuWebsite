@@ -3,7 +3,7 @@
     <section class="row">
       <div class="col-12">
         Ru is still sick so that sucks for me. While I am waiting I may start writing. But I am real busy with the play as
-        well.
+        well. I think we may be able to meet up this week!
       </div>
     </section>
   </div>
