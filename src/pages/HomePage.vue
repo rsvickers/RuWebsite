@@ -2,7 +2,7 @@
   <div class="container-fluid">
     <section class="row">
       <div class="col-12">
-        We are hopefully meeting next week. Not much I can do currently.
+        <!-- We are hopefully meeting next week. Not much I can do currently. -->
       </div>
     </section>
   </div>
